@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E043125-B6B5-45A4-8BF5-4333B6BB954F}|ConsoleApp1.csproj|c:\\users\\oson_\\documents\\visual studio 2022\\projekt\\consoleapp1\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E043125-B6B5-45A4-8BF5-4333B6BB954F}|ConsoleApp1.csproj|solutionrelative:init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E043125-B6B5-45A4-8BF5-4333B6BB954F}|ConsoleApp1.csproj|c:\\users\\oson_\\documents\\visual studio 2022\\projekt\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E043125-B6B5-45A4-8BF5-4333B6BB954F}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E043125-B6B5-45A4-8BF5-4333B6BB954F}|ConsoleApp1.csproj|c:\\users\\oson_\\documents\\visual studio 2022\\projekt\\consoleapp1\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E043125-B6B5-45A4-8BF5-4333B6BB954F}|ConsoleApp1.csproj|solutionrelative:classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7AF0BE-3C4D-4BC0-B8D5-0A9F1F7FC99F}|..\\TestProject1\\TestProject1.csproj|c:\\users\\oson_\\documents\\visual studio 2022\\projekt\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7AF0BE-3C4D-4BC0-B8D5-0A9F1F7FC99F}|..\\TestProject1\\TestProject1.csproj|c:\\users\\oson_\\documents\\visual studio 2022\\projekt\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestProject1.csproj",
+              "DocumentMoniker": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "..\\TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "..\\TestProject1\\TestProject1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-08T10:14:54.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "init.cs",
+              "DocumentMoniker": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\ConsoleApp1\\init.cs",
+              "RelativeDocumentMoniker": "init.cs",
+              "ToolTip": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\ConsoleApp1\\init.cs",
+              "RelativeToolTip": "init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:36:33.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAwMQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:44:47.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:22:33.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classes.cs",
+              "DocumentMoniker": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\ConsoleApp1\\classes.cs",
+              "RelativeDocumentMoniker": "classes.cs",
+              "ToolTip": "C:\\Users\\oson_\\Documents\\Visual Studio 2022\\Projekt\\ConsoleApp1\\classes.cs",
+              "RelativeToolTip": "classes.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:36:02.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
